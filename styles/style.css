@@ -9,9 +9,6 @@ html {
 }
 
 .page {
-  display: flex;
-  align-items: center;
-  justify-content: start;
   inline-size: 1200px;
   block-size: 100%;
   margin: auto;
@@ -64,7 +61,7 @@ ol {
   block-size: 100%;
   display: flex;
   flex-direction: column;
-  justify-content: end;
+  justify-content: center;
   align-items: center;
   column-gap: 30px;
   flex-wrap: wrap;
