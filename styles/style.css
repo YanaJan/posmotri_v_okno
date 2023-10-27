@@ -9,6 +9,7 @@ html {
 }
 
 .page {
+  display: flex;
   inline-size: 1140px;
   block-size: 100%;
   margin: auto;
@@ -16,7 +17,6 @@ html {
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   background-color: #1b1919;
-  padding:0 30px 0; 
 }
 
 h1,
@@ -57,6 +57,7 @@ ol {
 }
 
 .content {
+  justify-self: center;
   width: 711px;
   block-size: 100%;
   display: flex;
