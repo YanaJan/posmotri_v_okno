@@ -9,14 +9,14 @@ html {
 }
 
 .page {
-  inline-size: 1200px;
+  inline-size: 1140px;
   block-size: 100%;
   margin: auto;
   color: #fff;
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   background-color: #1b1919;
-  padding: 133px 30px;
+  padding-top: 133px; 
 }
 
 h1,
@@ -57,7 +57,7 @@ ol {
 }
 
 .content {
-  width: 700px;
+  width: 711px;
   block-size: 100%;
   display: flex;
   flex-direction: column;
@@ -68,7 +68,7 @@ ol {
 }
 
 .result {
-  width: 700px;
+  width: 711px;
 }
 
 .result__video-container {
@@ -87,7 +87,7 @@ ol {
 
 .search-form {
   display: flex;
-  column-gap: 32px;
+  column-gap: 40px;
   align-items: flex-end;
 }
 
