@@ -58,6 +58,7 @@ ol {
 
 .content {
   justify-self: center;
+  align-self: center;
   width: 711px;
   block-size: 100%;
   display: flex;
