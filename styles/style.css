@@ -76,8 +76,8 @@ ol {
   width: 711px;
   height: 386px;
   position: relative;
-  margin-bottom: 20px;
-  margin-top: 63px;
+  margin-bottom: 16px;
+  margin-top: 71px;
 }
 
 .result__video {
@@ -88,7 +88,7 @@ ol {
 
 .search-form {
   display: flex;
-  column-gap: 40px;
+  justify-content: space-between;
   align-items: flex-end;
 }
 
@@ -168,7 +168,7 @@ input[type='checkbox']:checked + span:after {
 .content__details {
   display: flex;
   flex-direction: column;
-  row-gap: 30px;
+  row-gap: 20px;
   width: 394px;
 }
 
@@ -212,7 +212,7 @@ input[type='checkbox']:checked + span:after {
 
 .title {
   font-family: Oswald, sans-serif;
-  font-size: 73px;
+  font-size: 75px;
   font-weight: 700;
   line-height: 94%;
   text-transform: uppercase;
