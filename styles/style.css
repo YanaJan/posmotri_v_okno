@@ -116,7 +116,7 @@ ol {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  word-spacing: -4px;
+  word-spacing: -2px;
 }
 
 .search-form__label {
@@ -257,7 +257,6 @@ input[type='checkbox']:checked + span:after {
 .content__card-link_current {
   background-color: #545050;
 }
-
 
 .content__card-link:hover {
   text-decoration: underline;
